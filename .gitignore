@@ -1,2 +1,4 @@
 .local/share/Steam*
 .config/discord*
+.config/sh.Cider.Electron/*
+.config/spotify-adblock*
