@@ -1,0 +1,39 @@
+[2024-04-08 17:14:03.690] [info]  App is ready
+[2024-04-08 17:14:04.189] [info]  [koa:serve] Serving SPA from local {
+  zipPath: '/home/tommi/.config/sh.cider.electron/spa.zip',
+  shouldZip: true
+}
+[2024-04-08 17:14:04.262] [info]  [main:ready] Widevine status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    status: 'updated',
+    title: 'Widevine Content Decryption Module',
+    version: '4.10.2710.0'
+  }
+}
+[2024-04-08 17:14:05.086] [debug] [MusicKit][inject] Starting MusicKit injection...
+[2024-04-08 17:14:05.095] [debug] [MusicKit][boot] Configuring MusicKit.
+[2024-04-08 17:14:05.537] [debug] [MusicKit][boot:setup] Running setup.
+[2024-04-08 17:14:05.538] [debug] [MusicKit][setup] Registering listeners
+[2024-04-08 17:14:05.538] [debug] [MusicKit][boot:setup] Storefront ID: us
+[2024-04-08 17:14:05.552] [debug] [utils:api][fetchPlaylists] Fetching playlists.
+[2024-04-08 17:14:05.777] [error] [utils:api][scanFolders] No playlists found in folder. { id: 'p.playlistsroot' }
+[2024-04-08 17:14:05.790] [info]  [firebase][init] Initializing firebase.
+[2024-04-08 17:14:05.793] [info]  [MusicKit][boot] MusicKit setup complete.
+[2024-04-08 17:14:05.805] [debug] [firebase:auth][authStateChanged] Auth state changed {}
+[2024-04-08 17:14:05.805] [debug] [firebase:auth][authStateChanged] User is null
+[2024-04-08 17:14:10.133] [warn]  Discord RPC Client connected
+[2024-04-08 17:14:10.133] [debug] Discord RPC Client is ready
+[2024-04-08 17:14:16.766] [info]  Showing auth window
+[2024-04-08 17:15:17.307] [info]  User authorized, starting cider.
+[2024-04-08 17:15:17.314] [debug] [MusicKit][boot] Configuring MusicKit.
+[2024-04-08 17:15:17.331] [warn]  [MusicKit][boot] LocalStorage token auth failed. { error: 'Error: Failed to fetch' }
+[2024-04-08 17:15:18.930] [debug] [MusicKit][inject] Starting MusicKit injection...
+[2024-04-08 17:15:18.936] [debug] [MusicKit][boot] Configuring MusicKit.
+[2024-04-08 17:15:18.998] [debug] [MusicKit][boot:setup] Running setup.
+[2024-04-08 17:15:19.000] [debug] [MusicKit][setup] Registering listeners
+[2024-04-08 17:15:19.000] [debug] [MusicKit][onAuthorized] User is authorized, restoring values from localstorage.
+[2024-04-08 17:15:19.000] [debug] [MusicKit][boot:setup] Storefront ID: fi
+[2024-04-08 17:15:20.422] [warn]  [MusicKit][boot] LocalStorage token auth failed. { error: {} }
+[2024-04-08 17:15:22.443] [debug] [utils:api][fetchPlaylists] Fetching playlists.
+[2024-04-08 17:15:24.007] [debug] [utils:api][scanFolders] Scanning folder. { id: 'p.playlistsroot', count: 22 }
+[2024-04-08 17:16:17.348] [info]  [main:quit] App is quitting

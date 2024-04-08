@@ -1,0 +1,6 @@
+2024/04/08-17:43:07.705 cfa Reusing MANIFEST /home/tommi/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/04/08-17:43:07.706 cfa Recovering log #7
+2024/04/08-17:43:07.706 cfa Reusing old log /home/tommi/.config/discord/Local Storage/leveldb/000007.log 
+2024/04/08-17:45:41.532 cfc Level-0 table #11: started
+2024/04/08-17:45:41.542 cfc Level-0 table #11: 758181 bytes OK
+2024/04/08-17:45:41.545 cfc Delete type=0 #7
